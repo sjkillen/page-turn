@@ -28,3 +28,6 @@ bindsym $mod+Ctrl+9 workspace number $ws19; exec /home/gopher/page-turn/play.bas
 1. Install mpg123: `sudo apt install mpg321`
 2. Ensure `play.bash` is executable
 3. Either replace globals in `install.bash` and run, or edit i3 config like the above
+
+# Sounds
+sounds used from https://www.soundjay.com/page-flip-sounds-1.html
